@@ -6,7 +6,7 @@ metadata:
 spec: 
   project: default
   source: 
-    repoURL: "https://github.com/PaulaFarcas/PythonProject"
+    repoURL: "https://github.com/Bucifalus87/PythonProject.git"
     targetRevision: main 
     path: LibrarieProiect
   destination:
